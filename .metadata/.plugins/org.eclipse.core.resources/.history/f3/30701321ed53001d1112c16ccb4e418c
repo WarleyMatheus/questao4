@@ -1,0 +1,12 @@
+package mainPack;
+
+import java.util.Scanner;
+
+public class questao4 {
+
+	private static void main(String[] args) {
+
+
+	}
+
+}

@@ -1,0 +1,27 @@
+package mainPackage;
+
+import java.util.Scanner;
+
+public class mainClass extends veiculo{
+
+	public static void main(String[] args){
+		Scanner leia = new Scanner(System.in);
+		int sit = 0;
+		caminhao a = new caminhao() {
+		};
+		do {
+			System.out.println("Informe os eixos:");
+			a.setEixos(leia.nextInt());
+			
+			System.out.println("Deseja saber quantos eixos há? (1 para sim)");
+			if (leia.nextInt() == 1){
+				a.exibirDados();
+				
+			}
+			
+			System.out.println("Deseja continuar?");
+			sit = leia.nextInt();
+		}while(sit != 1);
+	}
+
+}

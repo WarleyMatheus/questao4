@@ -1,0 +1,14 @@
+package mainPackage;
+
+public class veiculo {
+
+	public veiculo() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

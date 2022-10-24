@@ -1,0 +1,14 @@
+package mainPack;
+
+public abstract sealed class questao_3 {
+
+	public questao_3() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

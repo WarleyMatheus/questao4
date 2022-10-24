@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="mainPack.TestaContaEstouro1"/>
+    <fullyQualifiedTypeName name="mainPack.Conta"/>
+    <fullyQualifiedTypeName name="defaultPack.main_class"/>
+    <fullyQualifiedTypeName name="defaultPack.pessoa"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="mainPackage.onibus"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="mainPackage.mainClass"/>
+    <fullyQualifiedTypeName name="mainPackage.veiculo"/>
+    <fullyQualifiedTypeName name="mainPackage.caminhao"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,9 @@
+package mainPackage;
+
+public class veiculo {
+
+	public veiculo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

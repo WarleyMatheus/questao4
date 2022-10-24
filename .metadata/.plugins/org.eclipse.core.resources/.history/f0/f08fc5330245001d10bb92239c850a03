@@ -1,0 +1,19 @@
+package mainPack;
+
+import java.util.Scanner;
+
+public class questao_5 {
+
+	public static void main(String[] args) {
+		int soma;
+		
+		System.out.print("O sistema soma os números entre 10 e 20, cujo resultado é: ");
+		for(soma = 0; soma < 21; soma++) {
+			if(soma >= 10) {
+				soma = soma + soma;
+			}
+		}
+		System.out.println(soma);
+	}
+
+}

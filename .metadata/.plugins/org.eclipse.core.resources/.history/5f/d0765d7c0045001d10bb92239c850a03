@@ -1,0 +1,26 @@
+package mainPack;
+
+import java.util.Scanner;
+
+public class questao_5 {
+
+	public static void main(String[] args) {
+		
+		Scanner leia = new Scanner(System.in);
+		int sensorluz, sensorpre;
+		float sensorpeso;
+		
+		System.out.println("Informe o valor para luz (1 para quando há luz, 0 para quando não há): ");
+		sensorluz = (leia.nextInt());
+		
+		System.out.println("Informe se há alguém no ambiente (1 para sim, 0 para não): ");
+		sensorpre = (leia.nextInt());
+		
+		System.out.println("Informe se há alguém com mais de 30 quilos acima do sensor de peso(1 para sim, 0 para não): ");
+		sensorpeso = (leia.nextFloat());
+		
+		
+
+	}
+
+}
